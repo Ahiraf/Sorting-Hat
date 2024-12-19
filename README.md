@@ -2,6 +2,9 @@
 
 Welcome to the **Hogwarts House Sorting Quiz** repository! This program helps users discover which Hogwarts house they belong to based on their personality traits, preferences, and values. The quiz presents a series of questions and, based on the user's choices, assigns them to one of the four Hogwarts houses: **Gryffindor**, **Slytherin**, **Hufflepuff**, or **Ravenclaw**.
 
+![Hat](https://github.com/user-attachments/assets/653256e7-d847-4c3a-b07d-f0ce2e81d525)
+
+
 ## Features
 - A fun and interactive quiz that determines which Hogwarts house you belong to.
 - Based on 12 different personality questions, with options linked to various house traits.
@@ -34,14 +37,7 @@ The program works by asking the user a series of questions. For each question, t
 - `gryffindor()`, `slytherin()`, `hufflepuff()`, `ravenclaw()`: These functions display a personalized welcome message based on the user's assigned house.
 - The main function handles the quiz flow, including input collection, tallying the scores, and displaying the final result.
 
-<!DOCTYPE html>
-<html>
-<body>
 
-<img src="file:///Users/_kodiko_/Downloads/Hat.jpg" alt="Sorting Hat">
 
-![Hat](https://github.com/user-attachments/assets/653256e7-d847-4c3a-b07d-f0ce2e81d525)
 
-</body>
 
-</html>
