@@ -38,7 +38,8 @@ The program works by asking the user a series of questions. For each question, t
 <html>
 <body>
 
-<img src="Hat.jpg">
+<img src="Users/_kodiko_/Downloads/Hat.jpg">
 
 </body>
+
 </html>
