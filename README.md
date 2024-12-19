@@ -40,6 +40,7 @@ The program works by asking the user a series of questions. For each question, t
 
 <img src="file:///Users/_kodiko_/Downloads/Hat.jpg" alt="Sorting Hat">
 
+![Hat](https://github.com/user-attachments/assets/653256e7-d847-4c3a-b07d-f0ce2e81d525)
 
 </body>
 
